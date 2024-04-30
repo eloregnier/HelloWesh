@@ -1,0 +1,2112 @@
+[
+    {
+        "name": "Chausson chorizo & mozzarella facon calzone",
+        "ingredients": [
+            {
+                "name": "Pate a tarte",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Oignon",
+                "quantity": "3",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Gousse dail",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Mozzarella",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Concentré de tomates",
+                "quantity": "2",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Epices italiennes",
+                "quantity": "2",
+                "quantity_type": "sachet"
+            }
+        ]
+    },
+    {
+        "name": "Tarte rustique a l'ail des ours",
+        "ingredients": [
+            {
+                "name": "Poireau",
+                "quantity": "4",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Ail des ours",
+                "quantity": "4",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Crème épaisse",
+                "quantity": "200",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Feta",
+                "quantity": "200",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Pate a tarte",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Salade",
+                "quantity": "1",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Huile d'olive",
+                "quantity": "4",
+                "quantity_type": "cs"
+            },
+            {
+                "name": "Moutarde",
+                "quantity": "2",
+                "quantity_type": "cc"
+            },
+            {
+                "name": "Vinaigre balsamique noir",
+                "quantity": "4",
+                "quantity_type": "cc"
+            },
+            {
+                "name": "Oeuf",
+                "quantity": "2",
+                "quantity_type": "piece"
+            }
+        ]
+    },
+    {
+        "name": "Poulet a la creme de poireau & muscade",
+        "ingredients": [
+            {
+                "name": "Riz",
+                "quantity": "300",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Poireau",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Filet de poulet",
+                "quantity": "4",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Gousse d'ail",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Persil",
+                "quantity": "1",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Crème liquide",
+                "quantity": "400",
+                "quantity_type": "mi"
+            },
+            {
+                "name": "Gouda rapé",
+                "quantity": "100",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Noix de muscade",
+                "quantity": "1",
+                "quantity_type": "pincée"
+            },
+            {
+                "name": "Huile d'olive",
+                "quantity": "2",
+                "quantity_type": "cs"
+            },
+            {
+                "name": "Beurre",
+                "quantity": "2",
+                "quantity_type": "cs"
+            }
+        ]
+    },
+    {
+        "name": "Croque rustique poulet & huile saveur truffe",
+        "ingredients": [
+            {
+                "name": "Pain de campagne tranché",
+                "quantity": "8",
+                "quantity_type": "tranche"
+            },
+            {
+                "name": "Tranches de poulet cuit",
+                "quantity": "8",
+                "quantity_type": "tranche"
+            },
+            {
+                "name": "Crème épaisse",
+                "quantity": "160",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Gouda rapé",
+                "quantity": "150",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Huile d'olive saveur truffe",
+                "quantity": "16",
+                "quantity_type": "ml"
+            },
+            {
+                "name": "Salade",
+                "quantity": "2",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Beurre",
+                "quantity": "4",
+                "quantity_type": "cc"
+            },
+            {
+                "name": "Moutarde",
+                "quantity": "4",
+                "quantity_type": "cc"
+            },
+            {
+                "name": "Vinaigre balsamique noir",
+                "quantity": "4",
+                "quantity_type": "cc"
+            },
+            {
+                "name": "Huile d'olive",
+                "quantity": "4",
+                "quantity_type": "cs"
+            }
+        ]
+    },
+    {
+        "name": "Miso ramen express au porc & soja",
+        "ingredients": [
+            {
+                "name": "Nouilles de blé",
+                "quantity": "200",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Tranches de poitrine fumée",
+                "quantity": "170",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Cébette",
+                "quantity": "1",
+                "quantity_type": "botte"
+            },
+            {
+                "name": "Portobello",
+                "quantity": "4",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Gousse d'ail",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Purée de gingembre",
+                "quantity": "1.5",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Maïs en conserve",
+                "quantity": "285",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Miso blanc",
+                "quantity": "50",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Sauce soja",
+                "quantity": "20",
+                "quantity_type": "ml"
+            },
+            {
+                "name": "Cacahuètes non salées",
+                "quantity": "1",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Huile de tournesol",
+                "quantity": "4",
+                "quantity_type": "cs"
+            },
+            {
+                "name": "Miel",
+                "quantity": "2",
+                "quantity_type": "cc"
+            },
+            {
+                "name": "Vinaigre balsamique blanc ou de riz",
+                "quantity": "2",
+                "quantity_type": "cs"
+            },
+            {
+                "name": "Oeuf",
+                "quantity": "4",
+                "quantity_type": "piece"
+            }
+        ]
+    },
+    {
+        "name": "Aiguillettes de poulet facon teriyaki",
+        "ingredients": [
+            {
+                "name": "Riz",
+                "quantity": "225",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Oignon",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Carotte",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Poireau",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Ciboulette",
+                "quantity": "1",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Gousse d'ail",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Sauce soja",
+                "quantity": "80",
+                "quantity_type": "ml"
+            },
+            {
+                "name": "Huile de sesame",
+                "quantity": "20",
+                "quantity_type": "ml"
+            },
+            {
+                "name": "Purée de gingembre",
+                "quantity": "1",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Filet de poulet",
+                "quantity": "4",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Gomasio",
+                "quantity": "1",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Huile d'olive",
+                "quantity": "2",
+                "quantity_type": "cs"
+            },
+            {
+                "name": "Sucre",
+                "quantity": "4",
+                "quantity_type": "cs"
+            }
+        ]
+    },
+    {
+        "name": "Burger veggie : portobello glace au balsamique",
+        "ingredients": [
+            {
+                "name": "Pommes de terre",
+                "quantity": "1000",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Epices italiennes",
+                "quantity": "2",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Portobello",
+                "quantity": "4",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Oignon",
+                "quantity": "3",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Fromage rapé a l'italienne",
+                "quantity": "80",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Pain burger",
+                "quantity": "4",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Aioli",
+                "quantity": "100",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Salade",
+                "quantity": "1",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Huile d'olive",
+                "quantity": "4",
+                "quantity_type": "cs"
+            },
+            {
+                "name": "Vinaigre balsamique noir",
+                "quantity": "4",
+                "quantity_type": "cs"
+            },
+            {
+                "name": "Sucre",
+                "quantity": "2",
+                "quantity_type": "cc"
+            }
+        ]
+    },
+    {
+        "name": "Casarecce a la dinde, creme & epinards",
+        "ingredients": [
+            {
+                "name": "Gousse d'ail",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Oignon",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Tomates semi-séchées",
+                "quantity": "100",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Filet de dinde",
+                "quantity": "400",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Epices italiennes",
+                "quantity": "1",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Creme liquide",
+                "quantity": "200",
+                "quantity_type": "ml"
+            },
+            {
+                "name": "Fromage rapé a l'italienne",
+                "quantity": "40",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Epinards",
+                "quantity": "1",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Casarecce",
+                "quantity": "360",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Huile d'olive",
+                "quantity": "2",
+                "quantity_type": "cs"
+            },
+            {
+                "name": "Vinaigre balsamique noir",
+                "quantity": "4",
+                "quantity_type": "cc"
+            }
+        ]
+    },
+    {
+        "name": "Les nouilles secretes au poulet de M. Ping",
+        "ingredients": [
+            {
+                "name": "Gousse d'ail",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Gingembre frais",
+                "quantity": "2",
+                "quantity_type": "cm"
+            },
+            {
+                "name": "Poireau",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Tomates semi-séchées",
+                "quantity": "100",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Blanc de poulet",
+                "quantity": "400",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Nouilles de ble",
+                "quantity": "200",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Sauce asiatique sucrée",
+                "quantity": "4",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Pate épicée javanaise",
+                "quantity": "1",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Sauce soja",
+                "quantity": "40",
+                "quantity_type": "ml"
+            },
+            {
+                "name": "Noix de cajou concassées",
+                "quantity": "1",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Huile de tournesol",
+                "quantity": "2",
+                "quantity_type": "cs"
+            }
+        ]
+    },
+    {
+        "name": "Rigatoni au pesto verde, epinards & burrata",
+        "ingredients": [
+            {
+                "name": "Rigatoni",
+                "quantity": "360",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Gousse d'ail",
+                "quantity": "4",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Oignon",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Noisettes",
+                "quantity": "1",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Citron",
+                "quantity": "1",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Epinards",
+                "quantity": "1",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Pesto",
+                "quantity": "120",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Burrata",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Huile d'olive",
+                "quantity": "4",
+                "quantity_type": "cs"
+            }
+        ]
+    },
+    {
+        "name": "Orzotto epinards & parmigiano reggiano AOP",
+        "ingredients": [
+            {
+                "name": "Gousse d'ail",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Echalote",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Poireau",
+                "quantity": "1.5",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Epinards",
+                "quantity": "1",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Parmigiano Reggiano AOP",
+                "quantity": "80",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Graines de courge",
+                "quantity": "40",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Orzo",
+                "quantity": "270",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Noix de muscade",
+                "quantity": "1",
+                "quantity_type": "pincée"
+            },
+            {
+                "name": "Mascarpone",
+                "quantity": "100",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Salade",
+                "quantity": "1",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Bouillon de legumes",
+                "quantity": "800",
+                "quantity_type": "ml"
+            },
+            {
+                "name": "Huile d'olive",
+                "quantity": "2",
+                "quantity_type": "cs"
+            },
+            {
+                "name": "Vinaigre balsamique blanc ou de riz",
+                "quantity": "4",
+                "quantity_type": "cc"
+            }
+        ]
+    },
+    {
+        "name": "Salade post-fétes : avocat & patate douce",
+        "ingredients": [
+            {
+                "name": "Patate douce",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Echalote",
+                "quantity": "1",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Avocat",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Petit pain",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Fromage de chèvre frais",
+                "quantity": "125",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Noix concassées",
+                "quantity": "1",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Carotte rapée",
+                "quantity": "2",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Salade",
+                "quantity": "2",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Huile d'olive",
+                "quantity": "4",
+                "quantity_type": "cs"
+            },
+            {
+                "name": "Miel",
+                "quantity": "2",
+                "quantity_type": "cs"
+            },
+            {
+                "name": "Moutarde",
+                "quantity": "2",
+                "quantity_type": "cc"
+            },
+            {
+                "name": "Vinaigre de vin rouge ou de cidre",
+                "quantity": "2",
+                "quantity_type": "cc"
+            }
+        ]
+    },
+    {
+        "name": "Wok peps de nouilles, poulet & cajous",
+        "ingredients": [
+            {
+                "name": "Gousse d'ail",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Gingembre frais",
+                "quantity": "1",
+                "quantity_type": "cm"
+            },
+            {
+                "name": "Poireau",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Tomates semi-séchées",
+                "quantity": "100",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Blanc de poulet",
+                "quantity": "400",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Sauce asiatique sucrée",
+                "quantity": "4",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Pate épicée javanaise",
+                "quantity": "1",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Sauce soja",
+                "quantity": "40",
+                "quantity_type": "ml"
+            },
+            {
+                "name": "Nouilles de blé",
+                "quantity": "200",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Noix de cajou concassées",
+                "quantity": "1",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Huile de tournesol",
+                "quantity": "2",
+                "quantity_type": "cs"
+            }
+        ]
+    },
+    {
+        "name": "Lieu noir au confit d'oignon & poivrons",
+        "ingredients": [
+            {
+                "name": "Patate douce",
+                "quantity": "1",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Pommes de terre",
+                "quantity": "500",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Paprika fume en poudre",
+                "quantity": "2",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Oignon",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Poivrons grillés",
+                "quantity": "120",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Filet de lieu noir",
+                "quantity": "4",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Salade",
+                "quantity": "1",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Aioli",
+                "quantity": "80",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Huile d'olive",
+                "quantity": "4",
+                "quantity_type": "cc"
+            },
+            {
+                "name": "Beurre",
+                "quantity": "4",
+                "quantity_type": "cc"
+            },
+            {
+                "name": "Sucre",
+                "quantity": "2",
+                "quantity_type": "cc"
+            },
+            {
+                "name": "Vinaigre balsamique noir",
+                "quantity": "4",
+                "quantity_type": "cc"
+            }
+        ]
+    },
+    {
+        "name": "Cheesy quesadillas au poulet & mais",
+        "ingredients": [
+            {
+                "name": "Blanc de poulet",
+                "quantity": "400",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Oignon",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Maïs en conserve",
+                "quantity": "285",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Epices mexicaines",
+                "quantity": "1.5",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Chair de tomates",
+                "quantity": "400",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Tortillas",
+                "quantity": "8",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Cheddar rapé",
+                "quantity": "100",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Salade",
+                "quantity": "1",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Huile d'olive",
+                "quantity": "6",
+                "quantity_type": "cs"
+            },
+            {
+                "name": "Vinaigre de vin rouge ou de cidre",
+                "quantity": "2",
+                "quantity_type": "cc"
+            },
+            {
+                "name": "Moutarde",
+                "quantity": "2",
+                "quantity_type": "cc"
+            }
+        ]
+    },
+    {
+        "name": "Curry vert thai au poulet",
+        "ingredients": [
+            {
+                "name": "Riz",
+                "quantity": "300",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Echalote",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Gousse d'ail",
+                "quantity": "3",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Gingembre frais",
+                "quantity": "1",
+                "quantity_type": "cm"
+            },
+            {
+                "name": "Poireau",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Coriandre",
+                "quantity": "1",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Citron",
+                "quantity": "1",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Cacahuètes non salées",
+                "quantity": "1",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Blanc de poulet",
+                "quantity": "400",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Curry vert",
+                "quantity": "1.5",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Lait de coco",
+                "quantity": "500",
+                "quantity_type": "ml"
+            },
+            {
+                "name": "Sauce poisson",
+                "quantity": "20",
+                "quantity_type": "ml"
+            },
+            {
+                "name": "Huile de tournesol",
+                "quantity": "4",
+                "quantity_type": "cs"
+            }
+        ]
+    },
+    {
+        "name": "Salade colorée chevre chaud & lardons",
+        "ingredients": [
+            {
+                "name": "Petit pain aux noix",
+                "quantity": "4",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Fromage de chevre frais",
+                "quantity": "200",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Thym séché",
+                "quantity": "1",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Lardons fumés",
+                "quantity": "200",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Sucrine",
+                "quantity": "4",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Pommne",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Carotte",
+                "quantity": "1",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Huile d'olive",
+                "quantity": "4",
+                "quantity_type": "cs"
+            },
+            {
+                "name": "Vinaigre balsamique noir",
+                "quantity": "2",
+                "quantity_type": "cs"
+            },
+            {
+                "name": "Moutarde",
+                "quantity": "2",
+                "quantity_type": "cc"
+            }
+        ]
+    },
+    {
+        "name": "Chakchouka au chevre frais",
+        "ingredients": [
+            {
+                "name": "Gousse d'ail",
+                "quantity": "3",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Oignon",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Persil",
+                "quantity": "1",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Poivrons grillés",
+                "quantity": "150",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Paprika en poudre",
+                "quantity": "1",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Chair de tomates",
+                "quantity": "2",
+                "quantity_type": "paquet"
+            },
+            {
+                "name": "Fromage de chèvre frais",
+                "quantity": "200",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Petit pain",
+                "quantity": "4",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Huile d'olive",
+                "quantity": "2",
+                "quantity_type": "cs"
+            },
+            {
+                "name": "Sucre",
+                "quantity": "2",
+                "quantity_type": "cc"
+            },
+            {
+                "name": "Cube de bouillon de legumes",
+                "quantity": "1",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Oeuf",
+                "quantity": "8",
+                "quantity_type": "piece"
+            }
+        ]
+    },
+    {
+        "name": "Rigatoni terre-mer : crevettes & jambon",
+        "ingredients": [
+            {
+                "name": "Rigatoni",
+                "quantity": "360",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Gousse d'ail",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Oignon",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Jambon sec",
+                "quantity": "4",
+                "quantity_type": "tranche"
+            },
+            {
+                "name": "Ciboulette",
+                "quantity": "1",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Crevettes",
+                "quantity": "320",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Paprika fumé en poudre",
+                "quantity": "2",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Crème liquide",
+                "quantity": "200",
+                "quantity_type": "ml"
+            },
+            {
+                "name": "Salade",
+                "quantity": "1",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Beurre",
+                "quantity": "4",
+                "quantity_type": "cc"
+            },
+            {
+                "name": "Moutarde",
+                "quantity": "2",
+                "quantity_type": "cc"
+            },
+            {
+                "name": "Huile d'olive",
+                "quantity": "2",
+                "quantity_type": "cs"
+            }
+        ]
+    },
+    {
+        "name": "Nouilles epicees au boeuf facon Dan Dan",
+        "ingredients": [
+            {
+                "name": "Gousse d'ail",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Oignon",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Gingembre frais",
+                "quantity": "1",
+                "quantity_type": "cm"
+            },
+            {
+                "name": "Piment",
+                "quantity": "1.5",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Cacahuètes non salées",
+                "quantity": "1",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Pak choi",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Beurre de cacahuètes",
+                "quantity": "3",
+                "quantity_type": "pot"
+            },
+            {
+                "name": "Sauce soja",
+                "quantity": "40",
+                "quantity_type": "ml"
+            },
+            {
+                "name": "Coriandre moulue",
+                "quantity": "1.5",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Viande hachée au boeuf",
+                "quantity": "400",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Nouilles de blé",
+                "quantity": "400",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Huile de tournesol",
+                "quantity": "4",
+                "quantity_type": "cs"
+            },
+            {
+                "name": "Vinaigre balsamique noir",
+                "quantity": "4",
+                "quantity_type": "cc"
+            },
+            {
+                "name": "Sucre",
+                "quantity": "1",
+                "quantity_type": "cc"
+            }
+        ]
+    },
+    {
+        "name": "Poulet a la creme de poireau & muscade",
+        "ingredients": [
+            {
+                "name": "Poireau",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Riz",
+                "quantity": "300",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Filet de poulet",
+                "quantity": "4",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Gousse d'ail",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Persil",
+                "quantity": "1",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Crème liquide",
+                "quantity": "400",
+                "quantity_type": "ml"
+            },
+            {
+                "name": "Gouda vieux rapé",
+                "quantity": "100",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Noix de muscade",
+                "quantity": "1",
+                "quantity_type": "pincée"
+            },
+            {
+                "name": "Huile d'olive",
+                "quantity": "2",
+                "quantity_type": "cs"
+            },
+            {
+                "name": "Beurre",
+                "quantity": "2",
+                "quantity_type": "cs"
+            }
+        ]
+    },
+    {
+        "name": "Farfalle aux saveurs boisees & pecorino",
+        "ingredients": [
+            {
+                "name": "Farfalle",
+                "quantity": "360",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Echalote",
+                "quantity": "1",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Gousse d'ail",
+                "quantity": "4",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Champignons de Paris",
+                "quantity": "500",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Crème liquide",
+                "quantity": "200",
+                "quantity_type": "ml"
+            },
+            {
+                "name": "Pesto de champignons",
+                "quantity": "120",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Salade",
+                "quantity": "1",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Persil",
+                "quantity": "1",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Pecorino rapé",
+                "quantity": "40",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Huile d'olive",
+                "quantity": "1",
+                "quantity_type": "cs"
+            }
+        ]
+    },
+    {
+        "name": "Les fameuses pates carbo a la francaise",
+        "ingredients": [
+            {
+                "name": "Spaghetti",
+                "quantity": "360",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Gousse d'ail",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Oignon",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Persil",
+                "quantity": "1",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Chapelure panko",
+                "quantity": "40",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Noix concassées",
+                "quantity": "1",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Lardons fumés",
+                "quantity": "275",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Creme liquide",
+                "quantity": "200",
+                "quantity_type": "ml"
+            },
+            {
+                "name": "Pecorino rapé",
+                "quantity": "80",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Cube de bouillon de légumes",
+                "quantity": "1",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Beurre",
+                "quantity": "2",
+                "quantity_type": "cs"
+            },
+            {
+                "name": "Huile d'olive",
+                "quantity": "4",
+                "quantity_type": "cs"
+            }
+        ]
+    },
+    {
+        "name": "Pizza naan bianca aux champignons",
+        "ingredients": [
+            {
+                "name": "Champignons de Paris",
+                "quantity": "400",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Gousse d'ail",
+                "quantity": "3",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Oignon",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Mozzarella",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Pain naan",
+                "quantity": "4",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Epices italiennes",
+                "quantity": "2",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Fromage rapé a l'italienne",
+                "quantity": "80",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Salade",
+                "quantity": "2",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Beurre",
+                "quantity": "2",
+                "quantity_type": "cs"
+            },
+            {
+                "name": "Huile d'olive",
+                "quantity": "2",
+                "quantity_type": "cs"
+            },
+            {
+                "name": "Moutarde",
+                "quantity": "2",
+                "quantity_type": "cc"
+            },
+            {
+                "name": "Vinaigre balsamique noir",
+                "quantity": "4",
+                "quantity_type": "cc"
+            }
+        ]
+    },
+    {
+        "name": "Mijote vivifiant de dinde au curry jaune",
+        "ingredients": [
+            {
+                "name": "Gousse d'ail",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Gingembre frais",
+                "quantity": "1",
+                "quantity_type": "cm"
+            },
+            {
+                "name": "Cébette",
+                "quantity": "1",
+                "quantity_type": "botte"
+            },
+            {
+                "name": "Patate douce",
+                "quantity": "1",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Carotte",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Filet de dinde",
+                "quantity": "400",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Curry jaune",
+                "quantity": "1",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Sauce poisson",
+                "quantity": "40",
+                "quantity_type": "ml"
+            },
+            {
+                "name": "Lait de coco",
+                "quantity": "360",
+                "quantity_type": "ml"
+            },
+            {
+                "name": "Bouillon de volaille",
+                "quantity": "500",
+                "quantity_type": "ml"
+            },
+            {
+                "name": "Huile de tournesol",
+                "quantity": "4",
+                "quantity_type": "cs"
+            },
+            {
+                "name": "Vinaigre balsamique blanc ou de riz",
+                "quantity": "4",
+                "quantity_type": "cc"
+            }
+        ]
+    },
+    {
+        "name": "Salade de couscous perle, fromage & avocat",
+        "ingredients": [
+            {
+                "name": "Echalote",
+                "quantity": "0.5",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Avocat",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Tomates semi-séchées",
+                "quantity": "100",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Couscous perlé",
+                "quantity": "300",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Graines de courge",
+                "quantity": "40",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Citron",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Coriandre",
+                "quantity": "1",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Salade",
+                "quantity": "1",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Fromage a la grecque",
+                "quantity": "125",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Bouillon de legumes",
+                "quantity": "1200",
+                "quantity_type": "ml"
+            },
+            {
+                "name": "Vinaigre balsamique noir",
+                "quantity": "2",
+                "quantity_type": "cc"
+            },
+            {
+                "name": "Miel",
+                "quantity": "2",
+                "quantity_type": "cc"
+            },
+            {
+                "name": "Huile d'olive",
+                "quantity": "3",
+                "quantity_type": "s"
+            }
+        ]
+    },
+    {
+        "name": "Gnocchi cremeux au bleu",
+        "ingredients": [
+            {
+                "name": "Poireau",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Gousse d'ail",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Gnocchi",
+                "quantity": "600",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Crème épaisse",
+                "quantity": "100",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Fromage bleu",
+                "quantity": "100",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Noix de muscade",
+                "quantity": "1",
+                "quantity_type": "pincée"
+            },
+            {
+                "name": "Salade",
+                "quantity": "1",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Noix concassées",
+                "quantity": "1",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Beurre",
+                "quantity": "2.5",
+                "quantity_type": "cc"
+            },
+            {
+                "name": "Moutarde",
+                "quantity": "2",
+                "quantity_type": "cc"
+            },
+            {
+                "name": "Huile d'olive",
+                "quantity": "2.5",
+                "quantity_type": "cs"
+            },
+            {
+                "name": "Vinaigre balsamique noir",
+                "quantity": "2",
+                "quantity_type": "cs"
+            }
+        ]
+    },
+    {
+        "name": "Kung-Fu Wraps au boeuf & sauce soja",
+        "ingredients": [
+            {
+                "name": "Gousse d'ail",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Gingembre frais",
+                "quantity": "1",
+                "quantity_type": "cm"
+            },
+            {
+                "name": "Piment",
+                "quantity": "0.5",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Citron",
+                "quantity": "1",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Sauce soja",
+                "quantity": "60",
+                "quantity_type": "ml"
+            },
+            {
+                "name": "Emincés de boeuf",
+                "quantity": "400",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Concombre",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Carotte",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Mayonnaise",
+                "quantity": "100",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Mini tortillas",
+                "quantity": "12",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Huile d'olive",
+                "quantity": "2",
+                "quantity_type": "cs"
+            },
+            {
+                "name": "Sucre",
+                "quantity": "4",
+                "quantity_type": "cc"
+            },
+            {
+                "name": "Vinaigre balsamique blanc ou de riz",
+                "quantity": "8",
+                "quantity_type": "cs"
+            }
+        ]
+    },
+    {
+        "name": "Pizza naan creme de pesto, mozza & jambon",
+        "ingredients": [
+            {
+                "name": "Oignon",
+                "quantity": "1",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Mozzarella",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Jambon blanc",
+                "quantity": "4",
+                "quantity_type": "tranche"
+            },
+            {
+                "name": "Pain naan",
+                "quantity": "4",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Pesto vert alla genovese",
+                "quantity": "80",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Crème épaisse",
+                "quantity": "100",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Salade",
+                "quantity": "1",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Oeuf",
+                "quantity": "4",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Huile d'olive",
+                "quantity": "2.5",
+                "quantity_type": "cs"
+            },
+            {
+                "name": "Vinaigre balsamique noir",
+                "quantity": "2",
+                "quantity_type": "cs"
+            }
+        ]
+    },
+    {
+        "name": "Rigatoni au pesto verde, epinards & burrata",
+        "ingredients": [
+            {
+                "name": "Rigatoni",
+                "quantity": "360",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Gousse d'ail",
+                "quantity": "4",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Oignon",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Noisettes",
+                "quantity": "1",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Citron",
+                "quantity": "1",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Epinards",
+                "quantity": "1",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Pesto vert alla genovese",
+                "quantity": "120",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Burrata",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Huile d'olive",
+                "quantity": "4",
+                "quantity_type": "cs"
+            }
+        ]
+    },
+    {
+        "name": "Bibimbap coreen porc hache & sesame",
+        "ingredients": [
+            {
+                "name": "Riz",
+                "quantity": "300",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Huile de sesame",
+                "quantity": "40",
+                "quantity_type": "ml"
+            },
+            {
+                "name": "Gousse d'ail",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Cébette",
+                "quantity": "1",
+                "quantity_type": "botte"
+            },
+            {
+                "name": "Piment",
+                "quantity": "0.5",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Gingembre frais",
+                "quantity": "1",
+                "quantity_type": "cm"
+            },
+            {
+                "name": "Carotte",
+                "quantity": "1",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Concombre",
+                "quantity": "1",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Graines de sésame",
+                "quantity": "20",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Miso blanc",
+                "quantity": "35",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Sauce asiatique sucrée",
+                "quantity": "4",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Chair a saucisse",
+                "quantity": "400",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Vinaigre balsamique blanc ou de riz",
+                "quantity": "5",
+                "quantity_type": "cs"
+            },
+            {
+                "name": "Huile de tournesol",
+                "quantity": "4",
+                "quantity_type": "cs"
+            },
+            {
+                "name": "Sucre",
+                "quantity": "2",
+                "quantity_type": "cc"
+            },
+            {
+                "name": "Oeuf",
+                "quantity": "4",
+                "quantity_type": "piece"
+            }
+        ]
+    },
+    {
+        "name": "Steak vegetal & sauce Diane",
+        "ingredients": [
+            {
+                "name": "Pommes de terre",
+                "quantity": "1000",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Salade",
+                "quantity": "1",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Gousse d'ail",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Echalote",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Steak vegétal",
+                "quantity": "4",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Crème liquide",
+                "quantity": "200",
+                "quantity_type": "ml"
+            },
+            {
+                "name": "Thym séché",
+                "quantity": "1.5",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Huile d'olive",
+                "quantity": "2",
+                "quantity_type": "cs"
+            },
+            {
+                "name": "Vinaigre balsamique noir",
+                "quantity": "4",
+                "quantity_type": "cs"
+            },
+            {
+                "name": "Beurre",
+                "quantity": "4",
+                "quantity_type": "cs"
+            },
+            {
+                "name": "Moutarde",
+                "quantity": "2",
+                "quantity_type": "cc"
+            },
+            {
+                "name": "Cube de bouillon de légumes",
+                "quantity": "1",
+                "quantity_type": "piece"
+            }
+        ]
+    },
+    {
+        "name": "Nasi goreng: riz saute au poulet",
+        "ingredients": [
+            {
+                "name": "Riz",
+                "quantity": "270",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Gousse dail",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Carotte",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Cebette",
+                "quantity": "1",
+                "quantity_type": "botte"
+            },
+            {
+                "name": "Filet de poulet",
+                "quantity": "4",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Citron",
+                "quantity": "1",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Sauce soja",
+                "quantity": "40",
+                "quantity_type": "ml"
+            },
+            {
+                "name": "Pate épicée javanaise",
+                "quantity": "2",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Oignons frits",
+                "quantity": "20",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Huile de tournesol",
+                "quantity": "2",
+                "quantity_type": "cs"
+            },
+            {
+                "name": "Oeuf",
+                "quantity": "4",
+                "quantity_type": "piece"
+            }
+        ]
+    },
+    {
+        "name": "Filet de lieu & fondue legère de poireaux",
+        "ingredients": [
+            {
+                "name": "Grenailles",
+                "quantity": "1000",
+                "quantity_type": "g"
+            },
+            {
+                "name": "Poireau",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Gousse d'ail",
+                "quantity": "2",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Citron",
+                "quantity": "1",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Thym séché",
+                "quantity": "2",
+                "quantity_type": "sachet"
+            },
+            {
+                "name": "Filet de lieu noir",
+                "quantity": "4",
+                "quantity_type": "piece"
+            },
+            {
+                "name": "Crème liquide",
+                "quantity": "200",
+                "quantity_type": "ml"
+            },
+            {
+                "name": "Huile d'olive",
+                "quantity": "2",
+                "quantity_type": "cs"
+            },
+            {
+                "name": "Moutarde",
+                "quantity": "2",
+                "quantity_type": "cc"
+            },
+            {
+                "name": "Farine",
+                "quantity": "4",
+                "quantity_type": "cs"
+            },
+            {
+                "name": "Beurre",
+                "quantity": "2",
+                "quantity_type": "cs"
+            }
+        ]
+    }
+]
