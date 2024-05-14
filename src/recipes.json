@@ -1225,61 +1225,6 @@
         ]
     },
     {
-        "name": "Poulet a la creme de poireau & muscade",
-        "ingredients": [
-            {
-                "name": "Poireau",
-                "quantity": "2",
-                "quantity_type": "piece"
-            },
-            {
-                "name": "Riz",
-                "quantity": "300",
-                "quantity_type": "g"
-            },
-            {
-                "name": "Filet de poulet",
-                "quantity": "4",
-                "quantity_type": "piece"
-            },
-            {
-                "name": "Gousse d'ail",
-                "quantity": "2",
-                "quantity_type": "piece"
-            },
-            {
-                "name": "Persil",
-                "quantity": "1",
-                "quantity_type": "sachet"
-            },
-            {
-                "name": "Crème liquide",
-                "quantity": "400",
-                "quantity_type": "ml"
-            },
-            {
-                "name": "Gouda vieux rapé",
-                "quantity": "100",
-                "quantity_type": "g"
-            },
-            {
-                "name": "Noix de muscade",
-                "quantity": "1",
-                "quantity_type": "pincée"
-            },
-            {
-                "name": "Huile d'olive",
-                "quantity": "2",
-                "quantity_type": "cs"
-            },
-            {
-                "name": "Beurre",
-                "quantity": "2",
-                "quantity_type": "cs"
-            }
-        ]
-    },
-    {
         "name": "Farfalle aux saveurs boisees & pecorino",
         "ingredients": [
             {

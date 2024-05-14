@@ -1,0 +1,17 @@
+.basketTitle {
+  font-size: large;
+  font-weight: 600;
+  margin: 0.5em;
+  font-family: monospace;
+}
+
+.basketList {
+  display: flex;
+  flex-direction: row;
+  padding: 0.5em;
+  font-family: monospace;
+}
+
+.ingredient {
+  padding-right: 0.5em;
+}
