@@ -1,21 +1,23 @@
 import "./Semaines.css";
 import { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
-
+import { getItem, setItem } from "../adapters/api";
 function Semaines() {
   const navigate = useNavigate();
   const [semaines, setSemaines] = useState([]);
+
   // recupère les infos de "mon stockage" et les remet en objet ou récupère un tableau vide
   useEffect(() => {
-    const storedWeeks = JSON.parse(localStorage.getItem("monStockage") || "[]");
-    setSemaines(storedWeeks);
+    getItem().then((data) => {
+      setSemaines(data.result || []);
+    })
   }, []);
 
   const handleDeleteWeek = (index) => {
     const updatedWeeks = [...semaines];
     updatedWeeks.splice(index, 1);
     setSemaines(updatedWeeks);
-    localStorage.setItem("monStockage", JSON.stringify(updatedWeeks));
+    setItem(updatedWeeks)
   };
 
   const handleBasket = (index) => {

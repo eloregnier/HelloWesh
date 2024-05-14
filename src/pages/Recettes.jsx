@@ -2,6 +2,7 @@ import recipes from "../recipes.json";
 import "./Recettes.css";
 import { useNavigate } from "react-router-dom";
 import { useState } from "react";
+import { getItem, setItem } from "../adapters/api";
 
 function Recettes() {
   const [weekName, setWeekName] = useState("rien");
@@ -11,14 +12,22 @@ function Recettes() {
   const handleValidateWeek = () => {
     //stock le nom de la semaine + ce qui est coché dans la liste de la semaine
     const semaine = { name: weekName, recettes: recipeSelected };
-    //recupère en string tout les objets dans "mon stockage" ou un tableau vide
-    const semainesString = localStorage.getItem("monStockage") || "[]";
-    // remet en objet les semaines
-    const semaines = JSON.parse(semainesString);
-    semaines.push(semaine);
-    localStorage.setItem("monStockage", JSON.stringify(semaines));
-    //reset les checkbox
-    navigate("/");
+
+    // recupere les infos depuis l'api
+    getItem().then((data) => {
+      //on entre dans le code de reponse de l'api 
+      //le resultat de la promesse si tout se passe bien
+      // si aucune donnee dispo, on definit semaines comme un tableau vide
+      const semaines = data.result || []
+      // quand les infos sont disponibles on ajoute la semaine
+      semaines.push(semaine);
+      // on met à jour les infos via l'api
+      setItem(semaines).then(() => {
+        //on change de page quand la donnée est correctement mise à jour
+        navigate("/");
+      })
+    })
+    
   };
 
   const handleChangeWeekName = (event) => {
