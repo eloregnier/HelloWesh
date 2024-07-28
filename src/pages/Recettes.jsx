@@ -35,6 +35,7 @@ function Recettes() {
   };
 
   const handleChangeCheckbox = (e) => {
+    console.log("on reciepe", e.target);
     if (recipeSelected.includes(e.target.name)) {
       setRecipeSelected(
         recipeSelected.filter((item) => item !== e.target.name)
@@ -61,17 +62,18 @@ function Recettes() {
       </section>
       <div className="recipes">
         {recipes.map((recette, index) => {
+          const recipeName = ' ' + recette.no + ' ' + recette.name
           return (
             <li className="recipesList" key={index}>
               <div className="recipesDisplay">
                 <input
                   type="checkbox"
                   id={`custom-checkbox-${index}`}
-                  name={recette.name}
-                  value={recette.name}
+                  name={recipeName}
+                  value={recipeName}
                   onChange={handleChangeCheckbox}
                 />
-                {recette.name}
+                {recipeName}
               </div>
             </li>
           );
