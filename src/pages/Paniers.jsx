@@ -4,13 +4,10 @@ import { useState, useEffect } from "react";
 import recipes from "../recipes.json";
 import { getItem } from "../adapters/api";
 
-
-
 function Paniers() {
   // permet d'aller sur le bon Panier grace à l'ID
   const [computedBasket, setBasket] = useState({});
   const { id } = useParams();
-
 
   useEffect(() => {
     // je récupère la liste des semaines que je retransforme en objet
@@ -20,15 +17,17 @@ function Paniers() {
       const basket = {};
       // je récupère les recettes de cette semaines
       for (let i = 0; i < recipes.length; i++) {
-        for (let j = 0; j < storedWeek.recettes.length; j++) {
+        for (let j = 0; j < storedWeek.recipes.length; j++) {
           // je compare les recettes de ma semaine avec ceux du JSON
-          if (recipes[i].name === storedWeek.recettes[j]) {
+          if (recipes[i].name === storedWeek.recipes[j].name) {
             // je récupère les ingrédients de chaque recette dans le JSON
             for (let k = 0; k < recipes[i].ingredients.length; k++) {
               const ingredient = recipes[i].ingredients[k];
               // j'additionne les ingedients similaires sinon j'ajoute l'ingredient dans basket
               if (basket[ingredient.name]) {
-                basket[ingredient.name].quantity += parseInt(ingredient.quantity);
+                basket[ingredient.name].quantity += parseInt(
+                  ingredient.quantity
+                );
               } else {
                 basket[ingredient.name] = {
                   quantity: parseInt(ingredient.quantity),
