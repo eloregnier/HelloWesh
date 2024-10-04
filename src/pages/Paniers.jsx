@@ -30,7 +30,7 @@ function Paniers() {
                 );
               } else {
                 basket[ingredient.name] = {
-                  quantity: parseInt(ingredient.quantity),
+                  quantity: parseFloat(ingredient.quantity),
                   quantity_type: ingredient.quantity_type,
                 };
               }

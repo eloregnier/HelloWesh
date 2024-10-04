@@ -75,7 +75,7 @@ function Recettes() {
                   value={recette}
                   onChange={() => handleChangeCheckbox(recette)}
                 />
-                {`${recette.no} `}
+                {`${recette.no} - `}
                 {recette.name}
               </div>
             </li>
