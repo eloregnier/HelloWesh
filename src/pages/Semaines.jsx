@@ -33,9 +33,7 @@ function Semaines() {
             {console.log(semaine.recettes)}
             {semaine.recipes.map((recipe, idx) => (
               <li key={idx}>
-                {recipe.no}
-                {recipe.name}
-                {/* mettre lien qui ajoute selon le recipe.no à la fin */}
+                {recipe.no} - {recipe.name}
               </li>
             ))}
           </ul>
