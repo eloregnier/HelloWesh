@@ -1,7 +1,8 @@
 import "./Semaines.css";
 import { useState, useEffect } from "react";
-import { useNavigate } from "react-router-dom";
+import { useNavigate, Link } from "react-router-dom";
 import { getItem, setItem } from "../adapters/api";
+
 function Semaines() {
   const navigate = useNavigate();
   const [semaines, setSemaines] = useState([]);
@@ -33,7 +34,13 @@ function Semaines() {
             {console.log(semaine.recettes)}
             {semaine.recipes.map((recipe, idx) => (
               <li key={idx}>
-                {recipe.no} - {recipe.name}
+                {recipe.no} -
+                <Link
+                  to={`https://hellowesh.utopland.net/recipies/${recipe.no}.pdf`}
+                  target="_blank"
+                >
+                  {recipe.name}
+                </Link>
               </li>
             ))}
           </ul>

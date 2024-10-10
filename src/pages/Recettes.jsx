@@ -1,6 +1,6 @@
 import recipes from "../recipes.json";
 import "./Recettes.css";
-import { useNavigate } from "react-router-dom";
+import { useNavigate, Link } from "react-router-dom";
 import { useState } from "react";
 import { getItem, setItem } from "../adapters/api";
 
@@ -49,6 +49,11 @@ function Recettes() {
     }
   };
 
+  const [typeSelectionned, setTypeSelectionned] = useState(null);
+  const handleClickType = (type) => {
+    setTypeSelectionned(type);
+  };
+
   return (
     <>
       <section className="topRecipes">
@@ -62,10 +67,23 @@ function Recettes() {
           Valider la semaine
         </button>
       </section>
+      <section className="filters">
+        {[...new Set(recipes.map((recette) => recette.type))].map(
+          (type, index) => (
+            <button key={index} onClick={() => handleClickType(type)}>
+              {type}
+            </button>
+          )
+        )}
+        <button onClick={() => handleClickType(null)}>Tout afficher</button>
+      </section>
       <div className="recipes">
-        {recipes.map((recette, index) => {
-          // const recipeName = ' ' + recette.no + ' ' + recette.name
-          return (
+        {recipes
+          .filter(
+            (recette) =>
+              typeSelectionned === null || recette.type === typeSelectionned
+          )
+          .map((recette, index) => (
             <li className="recipesList" key={index}>
               <div className="recipesDisplay">
                 <input
@@ -76,11 +94,15 @@ function Recettes() {
                   onChange={() => handleChangeCheckbox(recette)}
                 />
                 {`${recette.no} - `}
-                {recette.name}
+                <Link
+                  to={`https://hellowesh.utopland.net/recipies/${recette.no}.pdf`}
+                  target="_blank"
+                >
+                  {recette.name}
+                </Link>
               </div>
             </li>
-          );
-        })}
+          ))}
       </div>
     </>
   );
