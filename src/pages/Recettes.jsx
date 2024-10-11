@@ -70,13 +70,21 @@ function Recettes() {
       <section className="filters">
         {[...new Set(recipes.map((recette) => recette.type))].map(
           (type, index) => (
-            <button key={index} onClick={() => handleClickType(type)}>
+            <button
+              className="buttonFilters"
+              key={index}
+              onClick={() => handleClickType(type)}
+            >
               {type}
             </button>
           )
         )}
-        <button onClick={() => handleClickType(null)}>Tout afficher</button>
       </section>
+      <div className="noFilters">
+        <button className="buttonFilters" onClick={() => handleClickType(null)}>
+          Tout afficher
+        </button>
+      </div>
       <div className="recipes">
         {recipes
           .filter(

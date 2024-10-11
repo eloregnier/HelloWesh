@@ -125,7 +125,7 @@ table {
 
 .navBar {
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
   background-color: #e5fcc1;
 }
 
@@ -135,9 +135,16 @@ table {
   color: black;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 1.5em;
-  padding: 0.5em 1.4em;
+  padding: 0.5em 1em;
+  width: 50%;
+  display: flex;
+  justify-content: center;
 }
 
 .active {
   background-color: darkseagreen;
+}
+
+a {
+  color: black;
 }
