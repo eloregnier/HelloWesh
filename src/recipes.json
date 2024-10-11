@@ -58,7 +58,8 @@
                 "quantity": "2",
                 "quantity_type": "cs"
             }
-        ]
+        ],
+        "type": "Asiatique"
     },
  
     {
@@ -130,7 +131,8 @@
                 "quantity": "4",
                 "quantity_type": "cs"
             }
-        ]
+        ],
+        "type": "Asiatique"
     },
     {
         "name": "Tarte rustique a l'ail des ours",
@@ -186,7 +188,8 @@
                 "quantity": "2",
                 "quantity_type": "piece"
             }
-        ]
+        ],
+        "type": "Autre"
     },
     {
         "name": "Salade post-fêtes : avocat & patate douce",
@@ -252,7 +255,8 @@
                 "quantity": "2",
                 "quantity_type": "cc"
             }
-        ]
+        ],
+        "type": "Salade"
     },
     {
         "name": "Farfalle aux saveurs boisées & pecorino",
@@ -308,7 +312,8 @@
                 "quantity": "1",
                 "quantity_type": "cs"
             }
-        ]
+        ],
+        "type": "Autre"
     },
     {
         "name": "Cheesy quesadillas au poulet & mais",
@@ -369,7 +374,8 @@
                 "quantity": "2",
                 "quantity_type": "cc"
             }
-        ]
+        ],
+        "type": "Mexicain"
     },
     {
         "name": "Salade colorée chevre chaud & lardons",
@@ -425,7 +431,8 @@
                 "quantity": "2",
                 "quantity_type": "cc"
             }
-        ]
+        ],
+        "type": "Salade"
     },
     {
         "name": "Chausson chorizo & mozzarella facon calzone",
@@ -466,7 +473,8 @@
                 "quantity": "2",
                 "quantity_type": "sachet"
             }
-        ]
+        ],
+        "type": "Autre"
     },
     {
         "name": "Gnocchi cremeux au bleu",
@@ -532,7 +540,8 @@
                 "quantity": "2",
                 "quantity_type": "cs"
             }
-        ]
+        ],
+        "type": "Autre"
     },
     {
         "name": "Croque rustique poulet & huile saveur truffe",
@@ -588,7 +597,8 @@
                 "quantity": "4",
                 "quantity_type": "cs"
             }
-        ]
+        ],
+        "type": "Autre"
     },
     {
         "name": "Chakchouka au chevre frais",
@@ -654,7 +664,8 @@
                 "quantity": "8",
                 "quantity_type": "piece"
             }
-        ]
+        ],
+        "type": "Autre"
     },
     {
         "name": "Mafé de poulet",
@@ -710,7 +721,8 @@
                 "quantity": "1",
                 "quantity_type": "sachet"
             }
-        ]
+        ],
+        "type": "Autre"
     },
     {
         "name": "Les nouilles secretes au poulet de M. Ping",
@@ -771,7 +783,8 @@
                 "quantity": "2",
                 "quantity_type": "cs"
             }
-        ]
+        ],
+        "type": "Asiatique"
     },
     {
         "name": "Burger veggie : portobello glace au balsamique",
@@ -832,7 +845,8 @@
                 "quantity": "2",
                 "quantity_type": "cc"
             }
-        ]
+        ],
+        "type": "Autre"
     },
 
     {
@@ -904,7 +918,8 @@
                 "quantity": "4",
                 "quantity_type": "cs"
             }
-        ]
+        ],
+        "type": "Asiatique"
     },
     {
         "name": "Pizza naan creme de pesto, mozza & jambon",
@@ -960,7 +975,8 @@
                 "quantity": "2",
                 "quantity_type": "cs"
             }
-        ]
+        ],
+        "type": "Indien"
     },
     {
         "name": "Nasi goreng: riz saute au poulet",
@@ -1021,7 +1037,8 @@
                 "quantity": "4",
                 "quantity_type": "piece"
             }
-        ]
+        ],
+        "type": "Asiatique"
     },
     {
         "name": "Filet de lieu & fondue legère de poireaux",
@@ -1082,7 +1099,8 @@
                 "quantity": "2",
                 "quantity_type": "cs"
             }
-        ]
+        ],
+        "type": "Autre"
     },
     {
         "name": "Mijote vivifiant de dinde au curry jaune",
@@ -1148,7 +1166,8 @@
                 "quantity": "4",
                 "quantity_type": "cc"
             }
-        ]
+        ],
+        "type": "Indien"
     },
     {
         "name": "Les fameuses pates carbo a la francaise",
@@ -1214,7 +1233,8 @@
                 "quantity": "4",
                 "quantity_type": "cs"
             }
-        ]
+        ],
+        "type": "Autre"
     },
     {
         "name": "Poulet à la creme de poireau & muscade",
@@ -1270,7 +1290,8 @@
                 "quantity": "2",
                 "quantity_type": "cs"
             }
-        ]
+        ],
+        "type": "Autre"
     },
 
     {
@@ -1337,7 +1358,8 @@
                 "quantity": "1",
                 "quantity_type": "piece"
             }
-        ]
+        ],
+        "type": "Autre"
     },
     {
         "name": "Bibimbap coreen porc hache & sesame",
@@ -1423,7 +1445,8 @@
                 "quantity": "4",
                 "quantity_type": "piece"
             }
-        ]
+        ],
+        "type": "Asiatique"
     },
     {
         "name": "Casarecce a la dinde, creme & epinards",
@@ -1484,7 +1507,8 @@
                 "quantity": "4",
                 "quantity_type": "cc"
             }
-        ]
+        ],
+        "type": "Autre"
     },
     {
         "name": "Lieu noir au confit d'oignon & poivrons",
@@ -1550,7 +1574,8 @@
                 "quantity": "4",
                 "quantity_type": "cc"
             }
-        ]
+        ],
+        "type": "Autre"
     },
     {
         "name": "Rigatoni terre-mer : crevettes & jambon",
@@ -1616,7 +1641,8 @@
                 "quantity": "2",
                 "quantity_type": "cs"
             }
-        ]
+        ],
+        "type": "Autre"
     },
     {
         "name": "Nouilles épicees au boeuf facon Dan Dan",
@@ -1692,7 +1718,8 @@
                 "quantity": "1",
                 "quantity_type": "cc"
             }
-        ]
+        ],
+        "type": "Asiatique"
     },
     {
         "name": "Pizza naan bianca aux champignons",
@@ -1758,7 +1785,8 @@
                 "quantity": "4",
                 "quantity_type": "cc"
             }
-        ]
+        ],
+        "type": "Indien"
     },
     {
         "name": "Orzotto epinards & parmigiano reggiano AOP",
@@ -1829,7 +1857,8 @@
                 "quantity": "4",
                 "quantity_type": "cc"
             }
-        ]
+        ],
+        "type": "Autre"
     },
     {
         "name": "Salade de couscous perle, fromage & avocat",
@@ -1900,7 +1929,8 @@
                 "quantity": "3",
                 "quantity_type": "s"
             }
-        ]
+        ],
+        "type": "Salade"
     },
     {
         "name": "Miso ramen express au porc & soja",
@@ -1976,7 +2006,8 @@
                 "quantity": "4",
                 "quantity_type": "piece"
             }
-        ]
+        ],
+        "type": "Asiatique"
     },
     {
         "name": "Risotto rosso à la tomâte, basilic & pecorino",
@@ -2032,7 +2063,8 @@
             "quantity": "1",
             "quantity_type": "sachet"
           }
-        ]
+        ],
+        "type": "Autre"
       },
       {
         "name": "Bagel et frites",
@@ -2068,7 +2100,8 @@
             "quantity": "1",
             "quantity_type": "sachet"
           }
-        ]
+        ],
+        "type": "Autre"
       },
       {
         "name": "Riz sauté crevettes & soja à la chinoise",
@@ -2129,7 +2162,8 @@
             "quantity": "4",
             "quantity_type": "pièce"
           }
-        ]
+        ],
+        "type": "Asiatique"
       },
       {
         "name": "Velouté tomates coco",
@@ -2180,7 +2214,8 @@
             "quantity": "2",
             "quantity_type": "paquet"
           }
-        ]
+        ],
+        "type": "Asiatique"
       },
       {
         "name": "Poulet curry mangue",
@@ -2231,7 +2266,8 @@
             "quantity": "1",
             "quantity_type": "paquet"
           }
-        ]
+        ],
+        "type": "Indien"
       },
       {
         "name": "Burger poulet avocat",
@@ -2267,7 +2303,8 @@
             "quantity": "2",
             "quantity_type": "sachet"
           }
-        ]
+        ],
+        "type": "Autre"
       },
       {
         "name": "Salade chèvre lard",
@@ -2313,7 +2350,8 @@
             "quantity": "1",
             "quantity_type": "sachet"
           }
-        ]
+        ],
+        "type": "Salade"
       },
       {
         "name": "Risotto champignons huile de truffe",
@@ -2359,7 +2397,8 @@
             "quantity": "24",
             "quantity_type": "ml"
           }
-        ]
+        ],
+        "type": "Autre"
       },
       {
         "name": "Poulet crème de poireau",
@@ -2405,7 +2444,8 @@
             "quantity": "1",
             "quantity_type": "pincée"
           }
-        ]
+        ],
+        "type": "Autre"
       },
       {
         "name": "Wraps aux pois chiches & fromage à la grecque",
@@ -2461,7 +2501,8 @@
             "quantity": "1",
             "quantity_type": "sachet"
           }
-        ]
+        ],
+        "type": "Autre"
       },
       {
         "name": "Tarte poivrons chorizo",
@@ -2512,7 +2553,8 @@
             "quantity": "1",
             "quantity_type": "sachet"
           }
-        ]
+        ],
+        "type": "Autre"
       },
       {
         "name": "Curry vert asperges",
@@ -2558,7 +2600,8 @@
                 "quantity": "1",
                 "quantity_type": "sachet"
             }
-        ]
+        ],
+        "type": "Indien"
     },
     {
         "name": "Nuggets et salade de tomates",
@@ -2614,7 +2657,8 @@
                 "quantity": "1",
                 "quantity_type": "sachet"
             }
-        ]
+        ],
+        "type": "Autre"
     },
     {
         "name": "Poulet et patates douces",
@@ -2655,7 +2699,8 @@
                 "quantity": "2",
                 "quantity_type": "paquet"
             }
-        ]
+        ],
+        "type": "Autre"
     },
     {
         "name": "Curry Indien patates douces épinards",
@@ -2716,7 +2761,8 @@
                 "quantity": "1",
                 "quantity_type": "pot"
             }
-        ]
+        ],
+        "type": "Indien"
     },
     {
         "name": "Boeuf épicé indonésien Rendang au lait de coco",
@@ -2777,7 +2823,8 @@
                 "quantity": "1 sachet",
                 "quantity_type": "sachet"
             }
-        ]
+        ],
+        "type": "Indien"
     },
     {
         "name": "Kung-Fu Wraps au boeuf & sauce soja",
@@ -2848,7 +2895,8 @@
                 "quantity": "8",
                 "quantity_type": "cs"
             }
-        ]
+        ],
+        "type": "Asiatique"
     },
     {
         "name": "Baos au porc & sauce asiatique sucrée",
@@ -2899,7 +2947,8 @@
                 "quantity": "1",
                 "quantity_type": "sachet"
             }
-        ]
+        ],
+        "type": "Asiatique"
     },    
     {
         "name": "Empanadas de poulet & sauce tomate",
@@ -2950,7 +2999,8 @@
                 "quantity": "2",
                 "quantity_type": "sachet"
             }
-        ]
+        ],
+        "type": "Mexicain"
     },
     {
         "name": "Bowl à l'aubergine grillée façon sabich",
@@ -3011,7 +3061,8 @@
                 "quantity": "4",
                 "quantity_type": "pièce"
             }
-        ]
+        ],
+        "type": "Autre"
     } ,
     {
         "name": "Le Végé : émincés végétariens Lok Lak champignons",
@@ -3062,7 +3113,8 @@
                 "quantity": "300",
                 "quantity_type": "g"
             }
-        ]
+        ],
+        "type": "Asiatique"
     }  
                
 ]
