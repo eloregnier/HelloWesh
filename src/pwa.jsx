@@ -1,4 +1,3 @@
-let showPwaButton = false
 let deferredPrompt;
 
 if ('serviceWorker' in navigator) {

@@ -5,7 +5,7 @@ import { useState } from "react";
 import auth from './auth';
 function App() {
   auth.login()
-  
+  auth.askReciepeToken()
   const [navColor, setNavColor] = useState(0);
 
   const handleClickNav = (index) => {

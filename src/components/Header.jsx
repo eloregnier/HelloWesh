@@ -3,6 +3,8 @@ import auth from "../auth";
 import onInstallPwa from "../pwa";
 function Header() {
 
+  const isPwaInstalled = window.matchMedia('(display-mode: standalone)').matches || window.navigator.standalone;
+
   const askInstall = () => {
     if (window.confirm('Voulez-vous installer HelloWesh en tant qu\'application ?')) {
       onInstallPwa();
@@ -17,10 +19,11 @@ function Header() {
           auth.logout();
         }}
         title="cliquer pour se déconnecter" className="auth">🔓{localStorage.getItem('token')}</div>
-      {/* <div
+        {!isPwaInstalled ? (<div
           onClick={askInstall}
-          title="cliquer pour installer hello wesh en tant qu'application" className="pwa">🔽</div> */}
-    </div>
+          title="cliquer pour installer hello wesh en tant qu'application" className="pwa">🔽</div>
+        ) : ''}
+      </div>
   
   );
 }

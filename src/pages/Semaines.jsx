@@ -2,7 +2,7 @@ import "./Semaines.css";
 import { useState, useEffect } from "react";
 import { useNavigate, Link } from "react-router-dom";
 import { getItem, setItem } from "../adapters/api";
-
+import auth from "../auth";
 function Semaines() {
   const navigate = useNavigate();
   const [semaines, setSemaines] = useState([]);
@@ -36,7 +36,7 @@ function Semaines() {
               <li key={idx}>
                 {recipe.no} -
                 <Link
-                  to={`https://hellowesh.utopland.net/recipies/${recipe.no}.pdf`}
+                  to={auth.getReciepeUrl(recipe.no)}
                   target="_blank"
                 >
                   {recipe.name}

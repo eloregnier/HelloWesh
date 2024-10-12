@@ -3,6 +3,7 @@ import "./Recettes.css";
 import { useNavigate, Link } from "react-router-dom";
 import { useState } from "react";
 import { getItem, setItem } from "../adapters/api";
+import auth from "../auth";
 
 function Recettes() {
   const [weekName, setWeekName] = useState("date non renseignée");
@@ -103,7 +104,7 @@ function Recettes() {
                 />
                 {`${recette.no} - `}
                 <Link
-                  to={`https://hellowesh.utopland.net/recipies/${recette.no}.pdf`}
+                  to={auth.getReciepeUrl(recette.no)}
                   target="_blank"
                 >
                   {recette.name}
