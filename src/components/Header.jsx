@@ -1,7 +1,13 @@
 import "./Header.css";
 import auth from "../auth";
-// logout on auth click
+import onInstallPwa from "../pwa";
 function Header() {
+
+  const askInstall = () => {
+    if (window.confirm('Voulez-vous installer HelloWesh en tant qu\'application ?')) {
+      onInstallPwa();
+    }
+  }
   return (
     <div className="header">
       <h1>HelloWesh</h1>
@@ -10,8 +16,12 @@ function Header() {
         onClick={() => {
           auth.logout();
         }}
-        title="cliquer pour se déconnecter" class="auth">🔓{localStorage.getItem('token')}</div>
+        title="cliquer pour se déconnecter" className="auth">🔓{localStorage.getItem('token')}</div>
+      {/* <div
+          onClick={askInstall}
+          title="cliquer pour installer hello wesh en tant qu'application" className="pwa">🔽</div> */}
     </div>
+  
   );
 }
 

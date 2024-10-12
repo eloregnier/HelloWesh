@@ -3,7 +3,6 @@ import Header from "./components/Header";
 import { Link, Outlet } from "react-router-dom";
 import { useState } from "react";
 import auth from './auth';
-
 function App() {
   auth.login()
   
@@ -12,6 +11,7 @@ function App() {
   const handleClickNav = (index) => {
     setNavColor(index);
   };
+
   return (
     <>
       <Header />

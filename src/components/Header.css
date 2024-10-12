@@ -17,3 +17,10 @@ h1 {
   cursor: pointer;
 
 }
+
+.pwa {
+  position: absolute;
+  left: 10px;
+  top: 8px;
+  cursor: pointer;
+}
