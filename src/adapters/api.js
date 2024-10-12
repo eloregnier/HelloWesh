@@ -1,5 +1,6 @@
 const token = import.meta.env.VITE_APP_API_TOKEN
-const namespace = import.meta.env.VITE_APP_API_NAMESPACE
+import auth from '../auth';
+
 export function getItem(callback) {
     const options = {
         method: 'GET',
@@ -9,7 +10,7 @@ export function getItem(callback) {
         },
     };
 
-    return fetch('https://d1-kv.utop.workers.dev/' + namespace, options)
+    return fetch('https://d1-kv.utop.workers.dev/' + auth.getToken(), options)
         .then(response => {
             return response.json();
         })
