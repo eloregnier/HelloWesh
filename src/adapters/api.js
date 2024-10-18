@@ -26,7 +26,7 @@ export function setItem(content, callback) {
         body: JSON.stringify(content)
     };
 
-    return fetch('https://d1-kv.utop.workers.dev/' + namespace, options)
+    return fetch('https://d1-kv.utop.workers.dev/' + auth.getToken(), options)
         .then(response => {
             return response.json();
         })
